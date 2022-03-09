@@ -1,3 +1,4 @@
+[Playeras](./playeras.md)  [Jeans/Pants](./jeans.md)  [Sudaderas](./sudaderas.md)  [Calzado](./calzado.md) [Cosmeticos](./cosmeticos.md)
 ## Bienvenida a mi sitio web de Boutique en donde podrás ver variedad de ropa y accesorios de tu gusto 
 
 # Presentación 
