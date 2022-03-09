@@ -1,3 +1,4 @@
+[Playeras](./playeras.md)  [Jeans/Pants](./jeans.md)  [Sudaderas](./sudaderas.md)  [Calzado](./calzado.md) [Cosmeticos](./cosmeticos.md)
 # PLAYERAS 
 
 | Marca | Tipo de prenda | Talla | Color | Precio |
