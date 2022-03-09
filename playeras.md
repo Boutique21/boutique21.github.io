@@ -9,7 +9,7 @@
 |   | The perfect | G | Gris | $599 |
 
 | Marca | Tipo de prenda | Talla | Color | Precio | 
-|-------|----------------|-------|--------|
+|-------|----------------|-------|--------|-------|
 | Nike | Manga corta | CH | Negro | $349 | 
 |      | Mangra corta | CH | Azul | $369 | 
 |      | Manga corta | CH | Negro | $399 | 
@@ -17,7 +17,7 @@
 |      | Manga larga/ estampado | M | Blanco | $469 | 
 
 | Marca | Tipo de prenda | Talla | Color | Precio | 
-|-------|----------------|-------|--------|
+|-------|----------------|-------|------|--------|
 | Puma | Manga corta | M | Blanca | $149 | 
 |      | Mangra corta | M | Amarillo | $369 | 
 |      | Manga corta | M | Azul | $299 | 
@@ -26,7 +26,7 @@
 |      | Manga larga |G | Negro | $467 | 
 
 | Marca | Tipo de prenda | Talla |  Color | Precio | 
-|-------|----------------|-------|--------|
+|-------|----------------|-------|--------|-------|
 | Adidas | Manga corta | CH |Blanca | $549 | 
 |      | Mangra corta | CH | Blanca | 2369 | 
 |      | Manga corta | M | Azul | $499 | 
