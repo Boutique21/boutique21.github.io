@@ -1,3 +1,4 @@
+[Playeras](./playeras.md)  [Jeans/Pants](./jeans.md)  [Sudaderas](./sudaderas.md)  [Calzado](./calzado.md) [Cosmeticos](./cosmeticos.md)
 # Calzado
 
 > En cualquier marca de calzado encontrarás un descuento desde el 20%-27%
