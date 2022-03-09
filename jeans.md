@@ -1,6 +1,7 @@
 # JEANS/PANTS
 > EN CUALQUIER COMPRA DESDE $499 PESOS CON ENVIO FULL Y GRATIS A CUALQUIER PARTE 
 
+
 | Marca | Tipo de prenda |Talla | Color | Precio | 
 |-------|----------------|-------|------|--------|
 | Levi´s  | Jean 721 | 11 | Blanco | $1949 | 
