@@ -7,7 +7,7 @@ Hola mi nombre es Melina Reynoso Gil, cualquier duda o comentario te puedes comu
 ### Menú 
 1. Playeras 
 2. Jeans/Pants 
-3. Chamarras 
+3. Sudaderas 
 4. Calzado
 5. Cosmeticos
 
