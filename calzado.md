@@ -12,6 +12,12 @@
 |      |  | 25 | Negro | $3988 | 
 |      |  | 24 | Negro | $1467 | 
 
+
+![image](https://user-images.githubusercontent.com/100168785/157764925-be9e94df-6762-45e2-b103-c2b5dcba7653.png)
+
+
+
+
 | Marca | Tipo de Calzado | Talla |  Color | Precio | 
 |-------|----------------|-------|--------|-------|
 | Nike | Court vision | 23 | Blanco | $949 | 
@@ -21,6 +27,10 @@
 |      | Court borough | 25 | Gris | $988 | 
 |      | Legend Essential | 24 | Negro | $1387 | 
 
+![image](https://user-images.githubusercontent.com/100168785/157764617-8405253d-a01f-480e-9188-ef912360fdaa.png)
+
+
+
 | Marca | Tipo de Calzado | Talla |  Color | Precio | 
 |-------|----------------|-------|--------|-------|
 | Puma | X-ray 2 square | 23 | Blanco | $1249 | 
@@ -29,3 +39,8 @@
 |      | X-ray 2 square | 25 | Gris | $1639 | 
 |      | X-ray 2 square | 25 | Morado | $1908 | 
 |      | X-ray 2 square | 24 | Negro | $1987 |
+
+![image](https://user-images.githubusercontent.com/100168785/157764893-6f2ff3e1-8df3-4ae7-bb97-c99385c2e776.png)
+
+
+
