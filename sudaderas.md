@@ -13,6 +13,9 @@
 |      |  | M | Gris | $987 | 
 |      |  |G | Amarillo | $967 | 
 
+![image](https://user-images.githubusercontent.com/100168785/157765048-d4ee32ef-4768-451f-94d4-3bb791435087.png)
+
+
 | Marca | Tipo de prenda | Talla |  Color | Precio | 
 |-------|----------------|-------|--------|-------|
 | Levi´s | Sudadera | CH |Blanca | $1549 | 
@@ -22,6 +25,9 @@
 |      |  | M |Negro | $2398 | 
 |      |  |G | Negro | $2267 | 
 
+![image](https://user-images.githubusercontent.com/100168785/157765110-da9d6bf4-32e6-456e-99dd-3a6f0cf27d85.png)
+
+
 | Marca | Tipo de prenda | Talla |  Color | Precio | 
 |-------|----------------|-------|--------|-------|
 | GAP | Sudadera | M |Blanca | $3549 | 
@@ -30,3 +36,7 @@
 |      |  | M | Gris | $2699 | 
 |      |  | M |Negro | $3288 | 
 |      |  |G | Negro | $2467 | 
+
+
+![image](https://user-images.githubusercontent.com/100168785/157765182-536b351a-00fc-4a41-a5bb-798661657da6.png)
+
