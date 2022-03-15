@@ -5,7 +5,8 @@
   <input type="text" id="name" name="name" valves="Tus nombres"><br>
   <label for="lname">Apellidos:</label><br>
   <input type="text" id="lname" names="lname" valves="Apellidos"><br>
-  
+</form>
+
   
   
   
