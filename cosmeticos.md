@@ -15,3 +15,6 @@
 | Contorno en polvo | 4 | $199 | 
 | Primer | 1 | $100 | 
 | Crema para la cara | 1 | $200 | 
+
+![image](https://user-images.githubusercontent.com/100168785/158482478-2c1ad28c-6b48-45f8-86aa-745603a7d3ed.png)
+
