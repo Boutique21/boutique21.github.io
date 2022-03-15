@@ -1,4 +1,5 @@
-[Playeras](./playeras.md)  [Jeans/Pants](./jeans.md)  [Sudaderas](./sudaderas.md)  [Calzado](./calzado.md) [Cosmeticos](./cosmeticos.md)
+| [Playeras](./playeras.md) | [Jeans/Pants](./jeans.md) | [Sudaderas](./sudaderas.md) | [Calzado](./calzado.md) | [Cosmeticos](./cosmeticos.md) | [Contacto](./contacto.md) |
+|---------------------------|---------------------------|-----------------------------|-------------------------|-------------------------------|---------------------------|
 # JEANS/PANTS
 > EN CUALQUIER COMPRA DESDE $499 PESOS CON ENVIO FULL Y GRATIS A CUALQUIER PARTE 
 
