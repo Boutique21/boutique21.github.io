@@ -13,6 +13,9 @@
 |      | Jean Cintura ultra alta | 11 | Negro | $1498 | 
 |      | Jean skinny | 11 | Café claro | $1467 | 
 
+![image](https://user-images.githubusercontent.com/100168785/158483129-5dd28470-87d5-4f1c-9706-53c3447bf7b6.png)
+
+
 | Marca | Tipo de prenda |Talla | Color | Precio | 
 |-------|----------------|-------|------|--------|
 | Adidas | Pants | CH | Blanco | $1949 | 
@@ -22,6 +25,9 @@
 |      |  | G | Morado| $1498 | 
 |      |  | G | Amarillo | $1467 | 
 
+![image](https://user-images.githubusercontent.com/100168785/158483051-51bd43a5-84d5-4c5e-97a7-cab420c8e569.png)
+
+
 | Marca | Tipo de prenda |Talla | Color | Precio | 
 |-------|----------------|-------|------|--------|
 | Puma | Pants | CH | Blanco | $1849 | 
@@ -30,3 +36,6 @@
 |      |  | G | Negro | $1399 | 
 |      |  | G | Negro | $1458 | 
 |      |  | G | Gris | $1877 | 
+
+![image](https://user-images.githubusercontent.com/100168785/158483093-f81cac1c-1592-452f-a01f-db78623d7309.png)
+
