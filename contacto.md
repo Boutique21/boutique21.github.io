@@ -1,18 +1,22 @@
 | [Playeras](./playeras.md) | [Jeans/Pants](./jeans.md) | [Sudaderas](./sudaderas.md) | [Calzado](./calzado.md) | [Cosmeticos](./cosmeticos.md) | [Contacto](./contacto.md) |
 # CONTACTO 
 <form>
-  <label for="name"> Nombres:</label><br>
-  <input type="text" id="name" name="name" valves="Tus nombres"><br>
-  <label for="lname">Apellidos:</label><br>
-  <input type="text" id="lname" names="lname" valves="Apellidos"><br>
+ <label for="name"> Nombres:</label><br> 
+ <input type="text" id="name" name="name" valves="Tus nombres"><br> 
+ <label for="lname">Apellidos:</label><br> 
+ <input type="text" id="lname" names="lname" valves="Apellidos"><br> 
+ <label for="name">Tipo de compra:</label><br> 
+ <input type="text" id="name" name="name" valves="Tipo de compra"><br>
+ <label for="lname">Correo electronico:</label><br> 
+ <input type="text" id="lname" names="lname" valves="correo electronico"><br> 
+ <label for="name">Fecha de entrega:</label><br> 
+ <input type="text" id="name" name="name" valves="Fecha de entrega"><br> 
+ <label for="lname">Comentarios:</label><br> 
+ <input type="text" id="lname" names="lname" valves="comentarios"><br> 
 </form>
 
-<form>
-  <label for="name">Tipo de compra:</label><br>
-  <input type="text" id="name" name="name" valves="Tipo de compra"><br>
-  <label for="lname">Correo electronico:</label><br>
-  <input type="text" id="lname" names="lname" valves="correo electronico"><br>
-</form>
+
+
 
   
   
