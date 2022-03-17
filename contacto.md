@@ -7,6 +7,13 @@
   <input type="text" id="lname" names="lname" valves="Apellidos"><br>
 </form>
 
+<form>
+  <label for="name">Tipo de compra:</label><br>
+  <input type="text" id="name" name="name" valves="Tipo de compra"><br>
+  <label for="lname">Correo electronico:</label><br>
+  <input type="text" id="lname" names="lname" valves="correo electronico"><br>
+</form>
+
   
   
   
