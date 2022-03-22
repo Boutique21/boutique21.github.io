@@ -22,8 +22,10 @@
  <label for="lname">Correo electronico:</label><br> 
  <input type="text" id="lname" names="lname" valves="correo electronico"><br> 
  
+ <label for="name"> Fecha de enterga:</label><br>
  <input> type="text" id="date" value=""><br>
  <label> for="date">Fecha:</label><br>
+ <input> type="date" id="date" name="date"><br>
  
  
  
