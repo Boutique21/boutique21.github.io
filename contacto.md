@@ -1,6 +1,7 @@
 | [Playeras](./playeras.md) | [Jeans/Pants](./jeans.md) | [Sudaderas](./sudaderas.md) | [Calzado](./calzado.md) | [Cosmeticos](./cosmeticos.md) | [Contacto](./contacto.md) |
 # CONTACTO 
-<form>
+
+<form action="action page" method="post">
  <label for="name"> Nombres:</label><br> 
  <input type="text" id="name" name="name" valves="Tus nombres"><br> 
  <label for="lname">Apellidos:</label><br> 
@@ -9,7 +10,6 @@
  <h2>Checkboxes</h2>
 <p> <strong>Tipo de compra:</p>
 
-<form action="/action_page.php">
   <input type="Tipo de compra" id="Tipo de compra" name="Tipo de compra" value="Prenda">
   <label for="Tipo de compra">Prenda</label><br>
   <input type="Tipo de compra" id="Tipo de compra" name="Tipo de compra" value="Calzado">
@@ -22,7 +22,7 @@
  <label for="lname">Correo electronico:</label><br> 
  <input type="text" id="lname" names="lname" valves="correo electronico"><br> 
  
- <label for="name"> Fecha de enterga:</label><br>
+ <label for="name"> Fecha de entrega:</label><br>
  <input> type="text" id="date" name="date" value=""><br>
  <label> for="date">Fecha:</label><br>
  <input> type="date" id="date" name="date"><br>
