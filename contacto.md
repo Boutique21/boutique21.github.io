@@ -20,11 +20,8 @@
  <input type="text" id="lname" names="lname" valves="correo electronico"><br> 
  
  <label for="name"> Fecha de entrega:</label><br>
- <input> type="text" id="date" name="date" value=""><br>
- <label> for="date">Fecha:</label><br>
+ <label> for="date"></label><br>
  <input> type="date" id="date" name="date"><br>
- 
- 
  
  
  <label for="lname">Comentarios:</label><br> 
