@@ -10,10 +10,10 @@
  <h2>Checkboxes</h2>
 <p> <strong>Tipo de compra:</p>
 
-  <input type="Tipo de compra" id="Tipo de compra" name="Tipo de compra" value="Prenda">
-  <label for="Tipo de compra">Prenda</label><br>
-  <input type="Tipo de compra" id="Tipo de compra" name="Tipo de compra" value="Calzado">
-  <label for="Tipo de compra">Calzado</label><br>
+   <input type="checkbox" id="Tipo de compra" name="Tipo de compra" value="Prenda">
+  <label for="tipo de prenda">Prenda/label><br>
+    <input type="checkbox" id="Tipo de compra" name="Tipo de compra" value="Calzado">
+  <label for="tipo de prenda">Calzado</label><br>
   <input type="checkbox" id="Tipo de compra" name="Tipo de compra" value="Cosmeticos">
   <label for="tipo de prenda">Cosmeticos</label><br>
   
