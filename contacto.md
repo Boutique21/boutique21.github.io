@@ -3,9 +3,9 @@
 
 <form action="https://formspree.io/f/xayvbrgk" method="post">
  <label for="name"> Nombres:</label><br> 
- <input type="text" id="name" name="name" valves="Tus nombres"><br> 
+ <input type="text" id="name" name="name" values="Tus nombres"><br> 
  <label for="lname">Apellidos:</label><br> 
- <input type="text" id="lname" names="lname" valves="Apellidos"><br> 
+ <input type="text" id="lname" names="lname" values="Apellidos"><br> 
 
 <p> <strong>Tipo de compra:<br>
   <input type="checkbox" id="Tipo de compra" name="Tipo de compra" value="Prenda">
@@ -17,10 +17,10 @@
   
 
  <label for="lname">Correo electronico:</label><br> 
- <input type="text" id="email" names="email" valves="correo electronico"><br> 
+ <input type="text" id="email" names="email" values="correo electronico"><br> 
  
  <label for="lname">Comentarios:</label><br> 
- <input type="text" id="coments" names="coments" valves="comentarios"><br> 
+ <input type="text" id="coments" names="coments" values="comentarios"><br> 
  <input type="submit" value="Enviar"><br>
 </form>
 
