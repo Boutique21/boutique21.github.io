@@ -2,7 +2,6 @@
 # CONTACTO 
 
 <form action="https://formspree.io/f/xavybrgk>
-<form action="action page" method="post">
  <label for="name"> Nombres:</label><br> 
  <input type="text" id="name" name="name" valves="Tus nombres"><br> 
  <label for="lname">Apellidos:</label><br> 
