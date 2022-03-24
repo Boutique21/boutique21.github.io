@@ -15,7 +15,7 @@
   <input type="Tipo de compra" id="Tipo de compra" name="Tipo de compra" value="Calzado">
   <label for="Tipo de compra">Calzado</label><br>
   <input type="checkbox" id="Tipo de compra" name="Tipo de compra" value="Cosmeticos">
-  <label for="tipo de prenda">Cosmeticos</label><br><br>
+  <label for="tipo de prenda">Cosmeticos</label><br>
   
 
 
