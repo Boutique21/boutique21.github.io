@@ -8,7 +8,7 @@
  <input type="text" id="lname" names="lname" valves="Apellidos"><br> 
 
  <h2>Checkboxes</h2>
-<p> <strong>Tipo de compra:</p>
+<p> <strong>Tipo de compra:
 
   <input type="checkbox" id="Tipo de compra" name="Tipo de compra" value="Prenda">
   <label for="tipo de prenda">Prenda</label><br>
@@ -34,12 +34,4 @@
  <input type="submit" value="Enviar">
 </form>
 
-
-
- 
-
-  
-  
-  
-  
 ![wa link_dg1hde](https://user-images.githubusercontent.com/100168785/158484541-3b68d2ca-de6d-46b3-88b2-6b605ab482a8.png)
