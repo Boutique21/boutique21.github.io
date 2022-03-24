@@ -21,7 +21,7 @@
  
  <label for="name"> Fecha de entrega:</label><br>
  <label> for="date"></label><br>
- <input> type="date" id="date" name="date"><br>
+ <input> type="date" id="date" name="date"<br>
  
  
  <label for="lname">Comentarios:</label><br> 
