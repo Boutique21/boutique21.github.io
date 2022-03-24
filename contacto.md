@@ -7,9 +7,7 @@
  <label for="lname">Apellidos:</label><br> 
  <input type="text" id="lname" names="lname" valves="Apellidos"><br> 
 
- <h2>Checkboxes</h2>
-<p> <strong>Tipo de compra:
-
+<p> <strong>Tipo de compra:<br>
   <input type="checkbox" id="Tipo de compra" name="Tipo de compra" value="Prenda">
   <label for="tipo de prenda">Prenda</label><br>
   <input type="checkbox" id="Tipo de compra" name="Tipo de compra" value="Calzado">
