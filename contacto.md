@@ -1,6 +1,7 @@
 | [Playeras](./playeras.md) | [Jeans/Pants](./jeans.md) | [Sudaderas](./sudaderas.md) | [Calzado](./calzado.md) | [Cosmeticos](./cosmeticos.md) | [Contacto](./contacto.md) |
 # CONTACTO 
 
+<form action="https://formspree.io/f/xavybrgk#>
 <form action="action page" method="post">
  <label for="name"> Nombres:</label><br> 
  <input type="text" id="name" name="name" valves="Tus nombres"><br> 
