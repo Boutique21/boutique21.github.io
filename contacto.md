@@ -17,10 +17,10 @@
   
 
  <label for="lname">Correo electronico:</label><br> 
- <input type="text" id="lname" names="lname" valves="correo electronico"><br> 
+ <input type="text" id="email" names="email" valves="correo electronico"><br> 
  
  <label for="lname">Comentarios:</label><br> 
- <input type="text" id="lname" names="lname" valves="comentarios"><br> 
+ <input type="text" id="coments" names="coments" valves="comentarios"><br> 
  <input type="submit" value="Enviar"><br>
 </form>
 
