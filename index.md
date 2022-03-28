@@ -1,7 +1,8 @@
 | [Bienvenida](./index.md) | [Playeras](./playeras.md) | [Jeans/Pants](./jeans.md) | [Sudaderas](./sudaderas.md) | [Calzado](./calzado.md) | [Cosmeticos](./cosmeticos.md) | [Contacto](./contacto.md) |
 |---------|--------------|-----------------|------------------|-----------------------|----------------|----------------------|
 
-![image](https://user-images.githubusercontent.com/100168785/160443424-0a486f42-b43d-4744-87fe-767c42dae41f.png)
+![image](https://user-images.githubusercontent.com/100168785/160445640-7ac5b831-c6e3-4211-9ba6-444ba7f7df6b.png)
+
 
 ## Bienvenida a mi sitio web de Boutique en donde podrás ver variedad de ropa y accesorios de tu gusto 
 
