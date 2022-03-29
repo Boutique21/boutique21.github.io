@@ -1,5 +1,4 @@
 | [Bienvenida](./index.md) | [Playeras](./playeras.md) | [Jeans/Pants](./jeans.md) | [Sudaderas](./sudaderas.md) | [Calzado](./calzado.md) | [Cosmeticos](./cosmeticos.md) | [Contacto](./contacto.md) |
-|---------|--------------|-----------------|------------------|-----------------------|----------------|----------------------|
 
 ![image](https://user-images.githubusercontent.com/100168785/160445640-7ac5b831-c6e3-4211-9ba6-444ba7f7df6b.png)
 
